@@ -22,5 +22,12 @@
     <color name="colorPrimaryDark">#FF5503</color>
     <color name="colorAccent">#1F9C56</color>
 
+    <color name="subtitleColor">#99FFFFFF</color>
+    <color name="articleTextColor">#CCFFFFFF</color>
+    <color name="cardBack">#AA000000</color>
+    <color name="colorHeading">#88000000</color>
+    <color name="white">#fff</color>
+    <color name="gray">#8fff</color>
+    <color name="meta_color">#333</color>
     <color name="ltgray">#44e0e0e0</color>
 </resources>
